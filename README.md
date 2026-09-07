@@ -35,6 +35,7 @@ file handling, functions, conditions, loops, and input validation.
 
 Clone the repository using Git:
 
+
 git clone https://github.com/7ussen2del/DataBaseTask_with-bashScribt.git
 
 Move into the project directory:
@@ -51,6 +52,7 @@ chmod +x Files/*.sh
 Start the DBMS:
 
 ./Files/main.sh
+```bash
 📂 Project Structure
 DataBaseTask_with-bashScribt/
 │
